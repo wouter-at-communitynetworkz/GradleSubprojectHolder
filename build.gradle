@@ -23,7 +23,7 @@ project(':common') {
 //App Project specific stuff
 project(':app') {
   apply plugin: "application"
-  mainClassName = "com.roundabout.logtologstash.Main"
+  mainClassName = "com.roundabout.logtologstashconsumer.Main"
   dependencies {
     compile project(':common')
   }
