@@ -1,0 +1,6 @@
+[submodule "app/src"]
+	path = app/src
+	url = https://github.com/wouter-at-communitynetworkz/LogToLogstashConsumer.git
+[submodule "common/src"]
+	path = common/src
+	url = https://github.com/wouter-at-communitynetworkz/LogToLogstash.git
