@@ -7,6 +7,8 @@ Directory app contains a gitsubmodule tagged src, referring to depository LogToL
 and  
 directory common contains a gitsubmodule tagged src, referring to depository LogToLogstash
 
+Install gradle if needed.
+
 Clone this repository with the --recurse-submodules flag: 
 
 
