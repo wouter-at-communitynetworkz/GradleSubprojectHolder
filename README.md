@@ -1,7 +1,7 @@
 # GradleSubprojectHolder
 ## Parent project to contain subprojects
 
-##### Combine git subprojects and gradle multi project setup
+##### Combine git submodules and gradle multi project setup
 
 Directory app contains a gitsubmodule tagged src, referring to depository LogToLogstashConsumer, containing a java main method, used to test LogToLogstash library  
 and  
