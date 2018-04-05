@@ -29,9 +29,13 @@ see http://blog.joncairns.com/2011/10/how-to-use-git-submodules/
 and 
 
 https://rominirani.com/announcing-gradle-tutorial-series-5fd134223bf8
+
 https://rominirani.com/gradle-tutorial-part-1-installation-setup-2ea77729fc8c
+
 https://rominirani.com/gradle-tutorial-part-2-java-projects-5aaf99368018
+
 https://rominirani.com/gradle-tutorial-part-3-multiple-java-projects-5b1c4d1fbd8d
+
 
 and
 
